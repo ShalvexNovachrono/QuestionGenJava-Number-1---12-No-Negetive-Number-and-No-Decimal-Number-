@@ -19,7 +19,7 @@ This program does not require any external dependencies. It is written in pure J
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 ## Author
 
